@@ -2,7 +2,8 @@
 <h3 align="center">💻 Full-Stack Developer | Machine Learning Enthusiast | Cloud Explorer 🌥</h3>
 
 ---
-<img align="right" alt="Coding" width="300" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JvZzR6MGJ2OWpnMGM5b2MyZzZocjNjOTZ1MG4wdHh0cXg4ajByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="300" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JvZzR6MGJ2OWpnMGM5b2MyZzZocjNjOTZ1MG4wdHh0cXg4ajByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 
 ### 🌟 About Me
@@ -10,6 +11,7 @@
 - 💻 Passionate about **Full-Stack Development** and **Machine Learning**
 - 🌱 Currently mastering **PERN Stack**, **Machine Learning**, and **AWS**
 - 🎨 Fun fact: Won **450+ awards** in art & singing 🎤
+
 
 ---
 
