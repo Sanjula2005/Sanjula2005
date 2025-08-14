@@ -64,6 +64,7 @@
 
 ---
 
-![Snake animation](https://github.com/YOUR_USERNAME/Sanjula2005/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sanjula2005/Sanjula2005/blob/output/dist/github-contribution-grid-snake.svg)
+
 
 <h3 align="center">⭐ "Code. Create. Conquer." ⭐</h3>
