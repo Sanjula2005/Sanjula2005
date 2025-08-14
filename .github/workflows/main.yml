@@ -28,3 +28,5 @@ jobs:
           author_email: actions@github.com
           message: "Generate snake animation"
           add: "dist/github-contribution-grid-snake.svg"
+          push: true
+          branch: output
