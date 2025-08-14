@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Sanjula2005
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push changes
