@@ -1,74 +1,281 @@
-<h1 align="center">Hi there, I'm Sanjula 👋</h1>
-<h3 align="center">💻 Full-Stack Developer | Machine Learning Enthusiast | Cloud Explorer 🌥</h3>
+<h1 align="center">Hi 👋, I'm Sanjula S</h1>
 
----
-<img align="right" alt="Coding" width="300" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JvZzR6MGJ2OWpnMGM5b2MyZzZocjNjOTZ1MG4wdHh0cXg4ajByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-
-
-### 🌟 About Me
-- 🎓 **Information Science Engineering** student @ VVCE, Mysore (**CGPA: 9.8**)
-- 💻 Passionate about **Full-Stack Development** and **Machine Learning**
-- 🌱 Currently mastering **PERN Stack**, **Machine Learning**, and **AWS**
-- 🎨 Fun fact: Won **450+ awards** in art & singing 🎤
-
+<h3 align="center">
+Software Engineering student • Backend Developer • Data Engineer • AI/ML Enthusiast
+</h3>
 
 ---
 
-### 🛠 Tech Stack
+<img align="right" alt="Coding" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JvZzR6MGJ2OWpnMGM5b2MyZzZocjNjOTZ1MG4wdHh0cXg4ajByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-#### **Languages**
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+# 👨‍💻 About Me
 
-#### **Frontend**
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+- Information Science Engineering Student at **VVCE, Mysore**
 
-#### **Backend & Frameworks**
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white)](https://ejs.co/)
+- CGPA: **9.61**
 
-#### **Databases**
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+- Former **Project Intern at Hewlett Packard Enterprise (HPE)**
 
-#### **Tools & Platforms**
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
----
+💻 Passionate about
 
-### 🚀 Currently Learning
-- **Full-Stack Development** (PERN)
-- **Machine Learning & AI**
-- **Amazon Web Services**
+- Backend Development
+- Distributed Systems
+- Machine Learning
+- Artificial Intelligence
+- Scalable Software Engineering
+
+ Interested in building production-grade software using modern backend technologies.
+
+ -> Currently learning
+
+- System Design
+- Distributed Systems
+- Cloud technologies
+
+🎨 Fun Fact:
+
+ Winner of **450+ State & National Level Awards** in Art & Singing.
 
 ---
 
-### 📊 GitHub Stats
-![Sanjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjula2005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula2005&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjula2005&theme=radical)
+#  Experience
+
+## Hewlett Packard Enterprise (HPE)
+
+**CPP-Project Intern**
+
+Worked on **ATLAS**, a scalable telemetry analytics platform capable of processing large-scale real-time infrastructure data.
+
+### Responsibilities
+
+- Built Spark Streaming pipelines
+- Developed batch processing workflows
+- Integrated Apache Kafka
+- Implemented checkpointing & watermarking
+- Designed Dead Letter Queue (DLQ) handling
+- Worked with Delta Lake
+- Used Docker for containerized deployment
+- Collaborated through Git & GitHub
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjulasudhindra/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjula2005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sanjulasudhindra/)
+## Infosys Springboard
+
+**Virtual AI Intern**
+
+Built an AI-powered Dog Breed Prediction System using
+
+- Flask
+- DenseNet
+- Gemini API
+- REST APIs
 
 ---
 
-![Snake animation](https://github.com/Sanjula2005/Sanjula2005/blob/output/dist/github-contribution-grid-snake.svg)
+# 🚀 Featured Projects
+
+##  ATLAS – Telemetry Streaming & Analytics Platform
+
+**Tech Stack**
+
+Apache Spark • Apache Kafka • Delta Lake • Docker • PostgreSQL • ClickHouse
+
+### Features
+
+- Real-time stream processing
+- Historical batch processing
+- Schema validation
+- Event-time watermarking
+- Checkpointing
+- Dead Letter Queue
+- Fault-tolerant architecture
+- Scalable distributed processing
+
+---
+
+##  Pharma Multi-Agent Decision Support Platform
+
+**Tech Stack**
+
+Python • Streamlit • Ollama • Transformers • NLP
+
+### Features
+
+- Multi-Agent AI architecture
+- Clinical evidence search
+- Patent analysis
+- Supply chain intelligence
+- Market intelligence
+- PDF report generation
+- Interactive dashboard
+
+---
+
+##  Dog Breed Prediction System
+
+**Tech Stack**
+
+Python • Flask • DenseNet • Gemini API
+
+### Features
+
+- AI image classification
+- 97% prediction accuracy
+- AI chatbot
+- REST API backend
+- Breed recommendations
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 
+---
 
+## Distributed Systems
 
-<h3 align="center">⭐ "Code. Create. Conquer." ⭐</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+- Apache Spark
+- Apache Kafka
+
+---
+
+## AI / Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- Transformers
+- Ollama
+- Gemini API
+- NLP
+
+---
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+-  Google Cloud Platform
+-  Distributed Systems
+-  System Design
+-  Large Language Models
+
+---
+
+#  GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjula2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjula2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjula2005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjula2005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sanjulasudhindra/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sanjula2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Sanjulasudhindra/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:sanjulasudhindra12@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sanjula2005&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Sanjula2005/Sanjula2005/blob/output/dist/github-contribution-grid-snake.svg"/>
+
+</p>
+
