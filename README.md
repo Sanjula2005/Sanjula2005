@@ -38,6 +38,10 @@ Software Engineering student • Backend Developer • Data Engineer • AI/ML E
 
 ---
 
+🏅 Recognized at the Infosys Springboard Summit 2025 for exceptional contributions and technical excellence during the Pragati: Path to future training program.
+
+---
+
 #  Experience
 
 ## Hewlett Packard Enterprise (HPE)
